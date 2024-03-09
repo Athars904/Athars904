@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athars904?tab=repositories](https://github.com/Athars904?tab=repositories)
 
-- 💬 Ask me about **React, JQuery, JS, C++**
+- 💬 Ask me about **React, JQuery, JS, C++, Dart**
 
 - 📫 How to reach me **Athars904@gmail.com**
 
