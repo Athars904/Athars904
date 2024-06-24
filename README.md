@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Athar Shahzad</h1>
-<h3 align="center">I'm a Frontend Web Developer from Pakistan</h3>
+<h3 align="center">Mobile Application Developer | iOS App | Android App | UX/UI Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athars904&label=Profile%20views&color=0e75b6&style=flat" alt="athars904" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athars904?tab=repositories](https://github.com/Athars904?tab=repositories)
 
-- 💬 Ask me about **React, JQuery, JS, C++, Dart**
+- 💬 Ask me about **Flutter, Dart, SDK, Firebase, React**
 
 - 📫 How to reach me **Athars904@gmail.com**
 
