@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athars904&label=Profile%20views&color=0e75b6&style=flat" alt="athars904" /> </p>
 
-- 🌱 I’m currently working on **Mobile App Development**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athars904?tab=repositories](https://github.com/Athars904?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart, SDK, Firebase, React**
+- 💬 Ask me about **Flutter, Dart, SDK, Firebase, React, Node.js, Amazon AWS**
 
 - 📫 How to reach me **Athars904@gmail.com**
 
