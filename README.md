@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athars904&label=Profile%20views&color=0e75b6&style=flat" alt="athars904" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muhammadathars8" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadathars8?logo=twitter&style=for-the-badge" alt="muhammadathars8" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Advance Web, Generative AI**
 
