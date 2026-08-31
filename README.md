@@ -65,8 +65,5 @@ I care about clean architecture, performance, maintainability, and creating soft
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athars904&show_icons=true&locale=en&layout=compact" alt="athars904" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athars904&show_icons=true&locale=en" alt="athars904" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athars904&" alt="athars904" /></p>
