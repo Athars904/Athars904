@@ -59,11 +59,9 @@ I care about clean architecture, performance, maintainability, and creating soft
 
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/athars904">github.com/athars904</a></sub>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athars904&" alt="athars904" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athars904&" alt="athars904" /></p>
