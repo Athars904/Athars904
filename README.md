@@ -1,27 +1,69 @@
-<h1 align="center">Hi 👋, I'm M Athar Shahzad</h1>
-<h3 align="center">Full Stack Web & Mobile Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=Muhammad%20Athar%20Shahzad&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Full%20Stack%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Muhammad Athar Shahzad banner"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athars904&label=Profile%20views&color=0e75b6&style=flat" alt="athars904" /> </p>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athar-shahzad/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Athars904@gmail.com)
 
-- 🌱 I’m currently learning **AWS, Advance Web, Generative AI**
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-00e87a?style=flat-square)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Athars904?tab=repositories](https://github.com/Athars904?tab=repositories)
+</div>
 
-- 💬 Ask me about **Flutter, React, Node.js, Express.js, AWS EC2,**
+### About
 
-- 📫 How to reach me **Athars904@gmail.com**
+### What I Build
 
-- ⚡ Visit my website **https://scriptwave.co/**
+I build scalable, production-ready Softwares, turning ideas and business requirements into reliable, modern digital products.
+I care about clean architecture, performance, maintainability, and creating software that delivers real value to its users.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/muhammadathars8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadathars8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/athar shahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athar shahzad" height="30" width="40" /></a>
-</p>
+- ⌖ **Location** · Lahore, Pakistan
+- ⌗ **Experience** · 2 Years of Experience
+- ◎ **Education** · Comsats University Islamabad, Lahore Campus
+- ⟳ **Learning** · Kubernetes • Apache Kafka • Redis • AWS • System Design
+- ✦ **Fun fact** · I can spend hours debugging a problem, only to realize the solution was one line of code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Featured Projects
+
+- [Suredone Mobile Application](https://apps.apple.com/us/app/suredone/id6759923024) — A multi-channel e-commerce mobile application enabling sellers to manage products, orders, inventory, and marketplace operations from a single platform.
+
+- [CallEma](https://callema.com/) — A SaaS platform designed to help businesses streamline their operations, manage workflows, and automate everyday processes through a centralized web-based solution.
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,dart&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,flutter,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,firebase,supabase,redis,mongodb&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,nginx,githubactions&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas,pytorch,numpy&theme=dark" alt="AI / ML"/>
+
+### Languages
+- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🌐 **Urdu** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/athars904">github.com/athars904</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athars904&show_icons=true&locale=en&layout=compact" alt="athars904" /></p>
 
